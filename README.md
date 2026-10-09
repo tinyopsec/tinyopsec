@@ -4,71 +4,136 @@
 
 </div>
 
-## About
+<br>
 
-Freelance software engineer with commercial experience delivering work for companies. I write systems-level code in C and C++, build machine learning tooling in Python and CUDA, and care about software that is small, readable and easy to audit.
+<table width="100%">
+  <tr>
+    <td colspan="2" align="center" width="65%">
+      <img src="https://raw.githubusercontent.com/tinyopsec/tinyopsec/main/assets/aboutme.png" alt="About Me" width="100%">
+    </td>
+    <td rowspan="2" align="center" width="35%">
+      <img src="https://raw.githubusercontent.com/tinyopsec/tinyopsec/main/assets/terry.gif" alt="Dancing Terry" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="32.5%">
+      <img src="https://raw.githubusercontent.com/tinyopsec/tinyopsec/main/assets/interests.png" alt="Interests" width="100%">
+    </td>
+    <td align="center" width="32.5%">
+      <img src="https://raw.githubusercontent.com/tinyopsec/tinyopsec/main/assets/logo.gif" alt="logo" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <h3>Projects</h3>
+      <p>I work on personal projects focused on <strong>simplicity</strong>, <strong>performance</strong>, and learning by doing.<br>
+      Check out my repos for tools, scripts, and experiments in system optimization and security.</p>
+      <p>
+        <a href="https://github.com/tinyopsec"><img src="https://img.shields.io/badge/GitHub-tinyopsec-33ACB4?style=flat&labelColor=0E2426&logo=github&logoColor=33ACB4" alt="GitHub"></a>&nbsp;
+        <a href="https://huggingface.co/tinyopsec"><img src="https://img.shields.io/badge/Hugging%20Face-40%2B%20repositories-59C6B5?style=flat&labelColor=0E2426&logo=huggingface&logoColor=59C6B5" alt="Hugging Face"></a>&nbsp;
+        <img src="https://img.shields.io/github/followers/tinyopsec?style=flat&label=Followers&color=59C6B5&labelColor=0E2426&logoColor=59C6B5" alt="Followers">
+      </p>
+    </td>
+  </tr>
+</table>
 
-My approach is simple: less code means fewer bugs, a smaller attack surface and a faster review. I prefer minimal dependencies, POSIX-compatible tooling and designs that one person can read and fully understand in an afternoon.
+<br>
 
-I also contribute to open source projects when I can be useful.
+```
+01 | ABOUT
+```
 
-## Focus Areas
+**Freelance software engineer** with commercial experience delivering work for companies. I write **systems-level code in C and C++**, build **machine learning tooling in Python and CUDA**, and care about software that is **small, readable and easy to audit**.
 
-| Area | Description |
-| --- | --- |
-| Systems programming | C and C++, POSIX, low-level tooling, performance work |
-| Machine learning engineering | Model quantization, QLoRA fine-tuning, inference optimization |
-| GPU computing | CUDA kernels and GPU-accelerated pipelines |
-| Security and auditing | Minimal, reviewable code with a small trusted base |
-| Alternative operating systems | Darwin, FreeBSD, OpenBSD, NetBSD, Plan 9, illumos |
-| Terminal-centric workflow | Neovim, tmux, shell tooling, suckless-style software |
+My approach is simple: **less code means fewer bugs**, a smaller attack surface and a faster review. I prefer **minimal dependencies**, **POSIX-compatible tooling** and designs that one person can read and fully understand in an afternoon.
 
-## Languages
+I also **contribute to open source** projects when I can be useful.
 
-Primary languages for production work:
+<br>
+
+```
+02 | FOCUS
+```
+
+- **Systems programming:** C and C++, POSIX, low-level tooling, performance work
+- **Machine learning engineering:** model quantization, QLoRA fine-tuning, inference optimization
+- **GPU computing:** CUDA kernels and GPU-accelerated pipelines
+- **Security and auditing:** minimal, reviewable code with a small trusted base
+- **Alternative operating systems:** Darwin, FreeBSD, OpenBSD, NetBSD, Plan 9, illumos
+- **Terminal-centric workflow:** Neovim, tmux, shell tooling, suckless-style software
+
+<br>
+
+```
+03 | LANGUAGES
+```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,rust,go&theme=dark&perline=5" alt="C, C++, Python, Rust, Go" width="500">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,rust,go,java,js,ts,cs,lua,bash,kotlin,php,ruby,perl,haskell&theme=dark&perline=8" alt="C, C++, Python, Rust, Go, Java, JavaScript, TypeScript, C#, Lua, Bash, Kotlin, PHP, Ruby, Perl, Haskell" width="560">
 </p>
-
-Additional languages used professionally:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,cs,lua,bash&theme=dark&perline=6" alt="Java, JavaScript, TypeScript, C#, Lua, Bash" width="600">
+  Fluent in <b>C</b>, <b>C++</b> and <b>Python</b>, with professional experience in eight more languages.<br>
+  Also writing <b>Holy C</b>, <b>Pascal</b> and <b>1C</b>.
 </p>
 
-Less common languages:
+<br>
 
-| Language | Notes |
-| --- | --- |
-| Holy C | TempleOS-style development |
-| Pascal | Classic structured programming |
-| 1C | Business automation and enterprise integrations |
+```
+04 | OPERATING SYSTEMS
+```
 
-## Machine Learning
-
-Hands-on engineering experience in applied AI and ML, with emphasis on efficient training and inference on constrained hardware.
-
-- Quantization of large language models for lower memory use and faster inference
-- Parameter-efficient fine-tuning with QLoRA
-- CUDA development for custom GPU workloads
-- Model publishing and maintenance on Hugging Face
+<p align="center">I run and target a range of systems, with a particular interest in <b>Darwin internals</b> and the <b>BSD family</b>.</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,linux&theme=dark&perline=4" alt="PyTorch, TensorFlow, Python, Linux" width="400">
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,nix,apple,windows&theme=dark&perline=7" alt="Linux, Arch, Debian, Ubuntu, Nix, Apple, Windows" width="490">
 </p>
-
-Hugging Face: [huggingface.co/tinyopsec](https://huggingface.co/tinyopsec)
-
-## Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,apple,neovim,bash,git,github&theme=dark&perline=6" alt="Linux, macOS and Darwin, Neovim, Bash, Git, GitHub" width="600">
+  <img src="https://cdn.simpleicons.org/freebsd/59C6B5" alt="FreeBSD" height="64">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openbsd/59C6B5" alt="OpenBSD" height="64">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/netbsd/59C6B5" alt="NetBSD" height="64">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apple/59C6B5" alt="Darwin" height="64">
 </p>
 
-Daily work happens in the terminal. I run and target Linux and the BSD family, and I have a particular interest in Darwin internals and other less mainstream systems.
+<br>
 
-## Principles
+```
+05 | MACHINE LEARNING
+```
+
+Hands-on **engineering experience in applied AI and ML**, with emphasis on efficient training and inference on constrained hardware.
+
+- **Quantization** of large language models for lower memory use and faster inference
+- **QLoRA fine-tuning** and other parameter-efficient methods
+- **CUDA development** for custom GPU workloads
+- **Model publishing** and maintenance on Hugging Face
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,py&theme=dark&perline=3" alt="PyTorch, TensorFlow, Python" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nvidia/59C6B5" alt="NVIDIA CUDA" height="64">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/59C6B5" alt="Hugging Face" height="64">
+</p>
+
+<p align="center">Hugging Face: <a href="https://huggingface.co/tinyopsec"><b>huggingface.co/tinyopsec</b></a></p>
+
+<br>
+
+```
+06 | TOOLING
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=neovim,vim,bash,git,github,cmake,docker,md&theme=dark&perline=8" alt="Neovim, Vim, Bash, Git, GitHub, CMake, Docker, Markdown" width="560">
+</p>
+
+<p align="center">Daily work happens in the <b>terminal</b>, with <b>tmux</b>, <b>Make</b> and <b>suckless-style</b> software.</p>
+
+<br>
+
+```
+07 | PRINCIPLES
+```
 
 1. **Simplicity.** The simplest design that solves the problem is the right one.
 2. **Auditability.** Code should be short enough to read in full and clear enough to verify.
@@ -76,24 +141,33 @@ Daily work happens in the terminal. I run and target Linux and the BSD family, a
 4. **Performance.** Measure first, then optimize what matters.
 5. **Learning by building.** Real projects teach more than tutorials.
 
-## Work With Me
+<br>
 
-Available for freelance engagements in:
+```
+08 | WORK WITH ME
+```
 
-- Systems and low-level software development in C and C++
-- Machine learning engineering: quantization, fine-tuning, deployment
-- CUDA and performance optimization
-- Code review and security-minded refactoring
-- Tooling and automation
+Available for **freelance engagements** in:
 
-Contact: open an issue or discussion on any repository, or reach out through the links on my GitHub profile.
+- **Systems and low-level development** in C and C++
+- **Machine learning engineering:** quantization, fine-tuning, deployment
+- **CUDA** and performance optimization
+- **Code review** and security-minded refactoring
+- **Tooling** and automation
 
-## Statistics
+**Contact:** open an issue or discussion on any repository, or reach out through the links on my GitHub profile.
+
+<br>
+
+```
+09 | STATISTICS
+```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinyopsec&show_icons=true&hide_border=true&bg_color=0E2426&title_color=59C6B5&text_color=A4FBB6&icon_color=33ACB4&hide=issues" alt="GitHub statistics" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyopsec&layout=compact&hide_border=true&bg_color=0E2426&title_color=59C6B5&text_color=A4FBB6" alt="Top languages" width="48%">
+  <img src="https://raw.githubusercontent.com/tinyopsec/tinyopsec/main/assets/stats.svg" alt="GitHub and Hugging Face statistics" width="100%">
 </p>
+
+<br>
 
 <div align="center">
 
